@@ -1,4 +1,4 @@
-import {SELECTORS as watchPage} from './../../pageObject/WatchPage.js';
+import {SELECTORS as watchPage} from '../pageObject/WatchPage.js';
 
    beforeEach(() => {
      cy.visit(watchPage.URL)

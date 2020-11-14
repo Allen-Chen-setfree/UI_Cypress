@@ -1,5 +1,5 @@
 {
-  "integrationFolder": "tests/feature_tests",
+  "integrationFolder": "src/feature_tests",
    "defaultCommandTimeout" : 10000,
    "pageLoadTimeout" : 100000
 }

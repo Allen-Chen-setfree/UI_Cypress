@@ -1,4 +1,4 @@
-import {SELECTORS as signUpPage} from './../../pageObject/HomePage.js';
+import {SELECTORS as signUpPage} from '../pageObject/HomePage.js';
 
 describe('The Sign UpPage', () => {
 
