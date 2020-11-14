@@ -4,7 +4,7 @@ import {SELECTORS as watchPage} from '../pageObject/WatchPage.js';
      cy.visit(watchPage.URL)
    })
 
-describe('The Watch UpPage', () => {
+describe('The Watch Page', () => {
   it('watch the first video', () => {
     cy.viewport('macbook-13')
     cy.get(watchPage.VIDEO_LIST).first().click()

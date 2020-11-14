@@ -1,11 +1,9 @@
 import {SELECTORS as homePage} from '../pageObject/HomePage.js';
 
    const USERNAME = 'allenchen2084@gmail.com'
-   const PASSWORD = "Test4Stan"
+   const PASSWORD = 'Test4Stan'
 
 var Playpage = function() {
-
-
 
    this.login = function() {
 
